@@ -1,1 +1,2 @@
-This is i my first commit for code dev
+This is i my first commit for code dev.
+This an edit into the file
