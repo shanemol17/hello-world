@@ -1,3 +1,8 @@
+May 10
 This is i my first commit for code dev.
 This an edit into the file
 This is an edit from a diff branch.
+
+May 12
+Adding this text from the May12-Branch 2 days after the earlier code.
+
